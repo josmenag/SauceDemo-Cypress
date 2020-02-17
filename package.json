@@ -1,0 +1,17 @@
+{
+  "name": "saucedemo-cypress",
+  "version": "1.0.0",
+  "description": "saucedemo exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jose M",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.9.7"
+  }
+}
